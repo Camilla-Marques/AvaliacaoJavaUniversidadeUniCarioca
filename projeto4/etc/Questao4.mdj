@@ -2366,7 +2366,7 @@
 											"top": 430,
 											"width": 191.84521484375,
 											"height": 13,
-											"text": "-listaProdutoFabricado",
+											"text": "-listaDeEncomendas",
 											"horizontalAlignment": 0
 										}
 									],
@@ -5262,7 +5262,8 @@
 								"$ref": "AAAAAAFyjR+bmOz6+34="
 							},
 							"name": "codigo",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5271,7 +5272,8 @@
 								"$ref": "AAAAAAFyjR+bmOz6+34="
 							},
 							"name": "nome",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5280,7 +5282,8 @@
 								"$ref": "AAAAAAFyjR+bmOz6+34="
 							},
 							"name": "endereco",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5289,7 +5292,8 @@
 								"$ref": "AAAAAAFyjR+bmOz6+34="
 							},
 							"name": "telefone",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5308,7 +5312,8 @@
 								"$ref": "AAAAAAFyjR+qP+0j/Zo="
 							},
 							"name": "numeroCPF",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5317,7 +5322,8 @@
 								"$ref": "AAAAAAFyjR+qP+0j/Zo="
 							},
 							"name": "sexo",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5326,7 +5332,8 @@
 								"$ref": "AAAAAAFyjR+qP+0j/Zo="
 							},
 							"name": "estadoCivil",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5345,7 +5352,8 @@
 								"$ref": "AAAAAAFyjSADa+1MxFY="
 							},
 							"name": "numeroCNPJ",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5354,7 +5362,8 @@
 								"$ref": "AAAAAAFyjSADa+1MxFY="
 							},
 							"name": "nomeGestor",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5363,7 +5372,8 @@
 								"$ref": "AAAAAAFyjSADa+1MxFY="
 							},
 							"name": "telefoneGestor",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5438,7 +5448,8 @@
 								"$ref": "AAAAAAFyjSAfZe12jFg="
 							},
 							"name": "cliente",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5447,7 +5458,8 @@
 								"$ref": "AAAAAAFyjSAfZe12jFg="
 							},
 							"name": "linhaProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5549,7 +5561,8 @@
 								"$ref": "AAAAAAFyjSAtNe2f438="
 							},
 							"name": "idProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5558,7 +5571,8 @@
 								"$ref": "AAAAAAFyjSAtNe2f438="
 							},
 							"name": "linhaProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5567,7 +5581,8 @@
 								"$ref": "AAAAAAFyjSAtNe2f438="
 							},
 							"name": "nomeProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5576,7 +5591,8 @@
 								"$ref": "AAAAAAFyjSAtNe2f438="
 							},
 							"name": "descricaoProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5595,7 +5611,8 @@
 								"$ref": "AAAAAAFyjSA5/+3IqYc="
 							},
 							"name": "codigo",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5604,7 +5621,8 @@
 								"$ref": "AAAAAAFyjSA5/+3IqYc="
 							},
 							"name": "nome",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5613,7 +5631,8 @@
 								"$ref": "AAAAAAFyjSA5/+3IqYc="
 							},
 							"name": "categoriaLinhaProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5622,7 +5641,8 @@
 								"$ref": "AAAAAAFyjSA5/+3IqYc="
 							},
 							"name": "modelo",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5631,7 +5651,8 @@
 								"$ref": "AAAAAAFyjSA5/+3IqYc="
 							},
 							"name": "descricao",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5640,7 +5661,8 @@
 								"$ref": "AAAAAAFyjSA5/+3IqYc="
 							},
 							"name": "preco",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5688,7 +5710,8 @@
 								"$ref": "AAAAAAFyjSCDc+31vnA="
 							},
 							"name": "codigo",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5697,7 +5720,8 @@
 								"$ref": "AAAAAAFyjSCDc+31vnA="
 							},
 							"name": "nome",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5706,7 +5730,8 @@
 								"$ref": "AAAAAAFyjSCDc+31vnA="
 							},
 							"name": "descricao",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5754,7 +5779,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "codigo",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5763,7 +5789,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "idCliente",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5772,7 +5799,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "listaItemEncomenda",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5781,7 +5809,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "data",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5790,7 +5819,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "dataPrevisaoEntrega",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5799,7 +5829,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "dataVencimentoPagamento",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5808,7 +5839,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "estadoEntrega",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5817,7 +5849,8 @@
 								"$ref": "AAAAAAFyjSCRP+4ed/4="
 							},
 							"name": "valorTotal",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5865,7 +5898,8 @@
 								"$ref": "AAAAAAFyjSCeGu5H0Y8="
 							},
 							"name": "idItemEncomenda",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5874,7 +5908,8 @@
 								"$ref": "AAAAAAFyjSCeGu5H0Y8="
 							},
 							"name": "idProduto",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5883,7 +5918,8 @@
 								"$ref": "AAAAAAFyjSCeGu5H0Y8="
 							},
 							"name": "preco",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5892,7 +5928,8 @@
 								"$ref": "AAAAAAFyjSCeGu5H0Y8="
 							},
 							"name": "quantidade",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -5939,7 +5976,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFyjSCrru5wM2Y="
 							},
-							"name": "listaProdutoFabricado",
+							"name": "listaDeEncomendas",
 							"visibility": "private"
 						}
 					],
