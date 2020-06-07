@@ -2,7 +2,7 @@ package br.com.camilla;
 
 import java.util.List;
 
-public class AdministracaoSistema {
+public class AdministracaoPonto {
 	
 	private List <RegistroPonto> registrosDePonto;
 	private List <Empregado> listaDeEmpregados;
